@@ -8,5 +8,10 @@
     "متن": "Search",
     "آیکون": "https://s18.picofile.com/file/8435045550/ca0fbc161e6913867cca45ab6f3ce1d5.jpg",
     "دانلود": "https://s18.picofile.com/file/8435045550/ca0fbc161e6913867cca45ab6f3ce1d5.jpg"
+  },
+  {
+    "متن": "Web writing",
+    "آیکون": "https://s18.picofile.com/file/8435045642/e3b9a9835ee78f28cb36a399c93be2c6.jpg",
+    "دانلود": "https://s18.picofile.com/file/8435045642/e3b9a9835ee78f28cb36a399c93be2c6.jpg"
   }
 ]

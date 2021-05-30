@@ -23,5 +23,10 @@
     "متن": "Google",
     "آیکون": "https://s19.picofile.com/file/8435046250/66fc7745a213c18df6cd87993e1b4ff3.jpg",
     "دانلود": "https://s19.picofile.com/file/8435046250/66fc7745a213c18df6cd87993e1b4ff3.jpg"
+  },
+  {
+    "متن": "Star",
+    "آیکون": "https://s19.picofile.com/file/8435088742/dkkdj.png",
+    "دانلود": "https://s19.picofile.com/file/8435088742/dkkdj.png"
   }
 ]

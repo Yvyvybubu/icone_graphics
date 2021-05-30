@@ -43,5 +43,10 @@
     "متن": "Java icon",
     "آیکون": "https://s18.picofile.com/file/8435132434/74e943d82452f81f6a0bb0b51ac6785d.jpg",
     "دانلود": "https://s18.picofile.com/file/8435132434/74e943d82452f81f6a0bb0b51ac6785d.jpg"
+  },
+  {
+    "متن": "Mobile icon",
+    "آیکون": "https://s19.picofile.com/file/8435138134/daf9f7275e72709fc146f6da8bd742dd.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435138134/daf9f7275e72709fc146f6da8bd742dd.jpg"
   }
 ]

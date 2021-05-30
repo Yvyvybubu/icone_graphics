@@ -48,5 +48,10 @@
     "متن": "Mobile icon",
     "آیکون": "https://s19.picofile.com/file/8435138134/daf9f7275e72709fc146f6da8bd742dd.jpg",
     "دانلود": "https://s19.picofile.com/file/8435138134/daf9f7275e72709fc146f6da8bd742dd.jpg"
+  },
+  {
+    "متن": "\nFile icon",
+    "آیکون": "https://s19.picofile.com/file/8435140576/ic_versions_48dp.png",
+    "دانلود": "https://s19.picofile.com/file/8435140576/ic_versions_48dp.png"
   }
 ]

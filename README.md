@@ -28,5 +28,10 @@
     "متن": "Star",
     "آیکون": "https://s19.picofile.com/file/8435088742/dkkdj.png",
     "دانلود": "https://s19.picofile.com/file/8435088742/dkkdj.png"
+  },
+  {
+    "متن": "Graphics",
+    "آیکون": "https://s19.picofile.com/file/8435122334/4ccfef87c81f295f1b673ee51f69099a.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435122334/4ccfef87c81f295f1b673ee51f69099a.jpg"
   }
 ]

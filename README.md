@@ -53,5 +53,20 @@
     "متن": "\nFile icon",
     "آیکون": "https://s19.picofile.com/file/8435140576/ic_versions_48dp.png",
     "دانلود": "https://s19.picofile.com/file/8435140576/ic_versions_48dp.png"
+  },
+  {
+    "متن": "Gift Icon",
+    "آیکون": "https://s19.picofile.com/file/8435141550/d16d74b2cc74d36fb89c826a2be1f969.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435141550/d16d74b2cc74d36fb89c826a2be1f969.jpg"
+  },
+  {
+    "متن": "Web writing",
+    "آیکون": "https://s19.picofile.com/file/8435141650/IMG_20210321_193248_281.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435141650/IMG_20210321_193248_281.jpg"
+  },
+  {
+    "متن": "Sketchware icone",
+    "آیکون": "https://s18.picofile.com/file/8435141750/sketch_app_icon.png",
+    "دانلود": "https://s18.picofile.com/file/8435141750/sketch_app_icon.png"
   }
 ]

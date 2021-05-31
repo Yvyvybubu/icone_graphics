@@ -98,5 +98,10 @@
     "متن": "background",
     "آیکون": "https://s19.picofile.com/file/8435212518/284add854d58cd82592e931993660b7d.jpg",
     "دانلود": "https://s19.picofile.com/file/8435212518/284add854d58cd82592e931993660b7d.jpg"
+  },
+  {
+    "متن": "coding",
+    "آیکون": "https://s19.picofile.com/file/8435232192/Sketch.png",
+    "دانلود": "https://s19.picofile.com/file/8435232192/Sketch.png"
   }
 ]

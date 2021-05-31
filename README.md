@@ -78,5 +78,20 @@
     "متن": "ic verified",
     "آیکون": "https://s18.picofile.com/file/8435171518/ic_verified.png",
     "دانلود": "https://s18.picofile.com/file/8435171518/ic_verified.png"
+  },
+  {
+    "متن": "Android icon",
+    "آیکون": "https://s18.picofile.com/file/8435180676/download_2.jpg",
+    "دانلود": "https://s18.picofile.com/file/8435180676/download_2.jpg"
+  },
+  {
+    "متن": "play icone",
+    "آیکون": "https://s19.picofile.com/file/8435181734/ic_music_play_icon.png",
+    "دانلود": "https://s19.picofile.com/file/8435181734/ic_music_play_icon.png"
+  },
+  {
+    "متن": "Graphics",
+    "آیکون": "https://s19.picofile.com/file/8435181826/e1c8dd5b27b12fcaadbc75c0d012f0f6.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435181826/e1c8dd5b27b12fcaadbc75c0d012f0f6.jpg"
   }
 ]

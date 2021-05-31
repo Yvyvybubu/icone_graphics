@@ -68,5 +68,15 @@
     "متن": "Sketchware icone",
     "آیکون": "https://s18.picofile.com/file/8435141750/sketch_app_icon.png",
     "دانلود": "https://s18.picofile.com/file/8435141750/sketch_app_icon.png"
+  },
+  {
+    "متن": "Mobile icon",
+    "آیکون": "https://s18.picofile.com/file/8435171300/f84750038df45d926ea8e1aa3ef991c3.jpg",
+    "دانلود": "https://s18.picofile.com/file/8435171300/f84750038df45d926ea8e1aa3ef991c3.jpg"
+  },
+  {
+    "متن": "ic verified",
+    "آیکون": "https://s18.picofile.com/file/8435171518/ic_verified.png",
+    "دانلود": "https://s18.picofile.com/file/8435171518/ic_verified.png"
   }
 ]

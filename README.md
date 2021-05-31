@@ -93,5 +93,10 @@
     "متن": "Graphics",
     "آیکون": "https://s19.picofile.com/file/8435181826/e1c8dd5b27b12fcaadbc75c0d012f0f6.jpg",
     "دانلود": "https://s19.picofile.com/file/8435181826/e1c8dd5b27b12fcaadbc75c0d012f0f6.jpg"
+  },
+  {
+    "متن": "background",
+    "آیکون": "https://s19.picofile.com/file/8435212518/284add854d58cd82592e931993660b7d.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435212518/284add854d58cd82592e931993660b7d.jpg"
   }
 ]

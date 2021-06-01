@@ -103,5 +103,10 @@
     "متن": "coding",
     "آیکون": "https://s19.picofile.com/file/8435232192/Sketch.png",
     "دانلود": "https://s19.picofile.com/file/8435232192/Sketch.png"
+  },
+  {
+    "متن": "Download icon",
+    "آیکون": "https://s18.picofile.com/file/8435299850/arrow_download_icon.png",
+    "دانلود": "https://s18.picofile.com/file/8435299850/arrow_download_icon.png"
   }
 ]

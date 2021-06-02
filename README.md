@@ -108,5 +108,20 @@
     "متن": "Download icon",
     "آیکون": "https://s18.picofile.com/file/8435299850/arrow_download_icon.png",
     "دانلود": "https://s18.picofile.com/file/8435299850/arrow_download_icon.png"
+  },
+  {
+    "متن": "Game icon",
+    "آیکون": "https://s19.picofile.com/file/8435380992/89b5dd158bc6e8984641ba419082946e.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435380992/89b5dd158bc6e8984641ba419082946e.jpg"
+  },
+  {
+    "متن": "Emoji error",
+    "آیکون": "https://s19.picofile.com/file/8435381234/lib_side_error_emoji.png",
+    "دانلود": "https://s19.picofile.com/file/8435381234/lib_side_error_emoji.png"
+  },
+  {
+    "متن": "Mobile icon",
+    "آیکون": "https://s19.picofile.com/file/8435381318/b709589b999dbb1484f810a93f22a7c9.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435381318/b709589b999dbb1484f810a93f22a7c9.jpg"
   }
 ]

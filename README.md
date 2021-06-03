@@ -123,5 +123,10 @@
     "متن": "Mobile icon",
     "آیکون": "https://s19.picofile.com/file/8435381318/b709589b999dbb1484f810a93f22a7c9.jpg",
     "دانلود": "https://s19.picofile.com/file/8435381318/b709589b999dbb1484f810a93f22a7c9.jpg"
+  },
+  {
+    "متن": "Graphics",
+    "آیکون": "https://s19.picofile.com/file/8435447342/de81acecff488cef0efb7d68ee8f81c7.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435447342/de81acecff488cef0efb7d68ee8f81c7.jpg"
   }
 ]

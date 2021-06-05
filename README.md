@@ -128,5 +128,10 @@
     "متن": "Graphics",
     "آیکون": "https://s19.picofile.com/file/8435447342/de81acecff488cef0efb7d68ee8f81c7.jpg",
     "دانلود": "https://s19.picofile.com/file/8435447342/de81acecff488cef0efb7d68ee8f81c7.jpg"
+  },
+  {
+    "متن": "Store icon",
+    "آیکون": "https://s19.picofile.com/file/8435670568/44b14a8b2fc649b18b3671f878af65c9.jpg",
+    "دانلود": "https://s19.picofile.com/file/8435670568/44b14a8b2fc649b18b3671f878af65c9.jpg"
   }
 ]
